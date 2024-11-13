@@ -1,0 +1,42 @@
+p{
+    font-size: 19px;
+    color: hotpink;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: rgb(255, 204, 248);
+    padding: 40px 50px 40px 50px;
+    border: dashed 2px rgb(0, 0, 0);
+    border-radius: 10px;
+
+
+
+}
+
+h1{
+    font-size: 40px;
+    color:rgb(255, 95, 148);
+    margin:100px;
+
+}
+
+button{
+    background-color: rgb(255, 244, 194);
+    transition:0.3s;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: hotpink;
+    border: 5px;
+    border:inset rgb(255, 164, 210);
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: pink;
+    color: rgb(0, 0, 0);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 149, 166);
+}

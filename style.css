@@ -1,0 +1,54 @@
+
+
+p{
+    color:palevioletred;
+    font-size: 25px;
+   border: dashed 5px rgb(255, 181, 243);
+   border-radius: 20px;
+   margin: 30px;
+   padding: 50px 50px 50px 50px;
+   
+}
+     
+
+
+
+h1{
+    color:rgb(228, 120, 156);
+    font-size: 60px;
+    border: dotted 2px rgb(255, 192, 236);
+    padding: 40px;
+    margin: 70px;
+    margin-bottom: 60px;
+    background: rgba(255, 211, 240, 0.603)
+    
+}
+
+
+button{
+    background-color: rgb(255, 244, 194);
+    transition:0.3s;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    color: rgb(248, 74, 161);
+    border: 10px;
+    border:inset rgb(255, 164, 210);
+    border-radius: 5px;
+   
+}
+
+button:hover{
+    background-color: pink;
+    color: aqua;
+}
+
+a{
+    
+    text-decoration: none;
+    margin-top: 0%;
+    border: 2px;
+    color: palevioletred;
+   
+    
+}
+
